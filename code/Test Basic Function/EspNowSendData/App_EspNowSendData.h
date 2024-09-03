@@ -1,5 +1,5 @@
-#ifndef __APP_ESPNOWSENDDATA_H
-#define __APP_ESPNOWSENDDATA_H
+#ifndef _APP_ESPNOWSENDDATA_H
+#define _APP_ESPNOWSENDDATA_H
 
 #include "Sys_Init.h"
 
